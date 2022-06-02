@@ -1,0 +1,76 @@
+
+
+.backgroundscheefcardleft {
+    background-image: -webkit-linear-gradient(30deg, #6e5c5f 35%, #445568 80%);
+    min-height: auto;
+}
+
+
+.backgroundscheef2 {
+
+    background-image: -webkit-linear-gradient(30deg, #6e5c5f 55%, #445568 75%);
+    min-height: auto;
+}
+
+
+.backgroundscheef3 {
+
+    background-image: -webkit-linear-gradient(500deg, #6e5c5f 25%, #b4aaa5 65%);
+    min-height: auto;
+}
+
+.backgroundscheefbody {
+
+    background-image: -webkit-linear-gradient(112deg, #445568 25%, #b4aaa5 60%, #445568 15%);
+    min-height: auto;
+}
+
+.buttonCollor {
+    background-color: #445568;
+}
+
+.cards {
+    height: auto;
+    position: relative;
+}
+
+.card-inner {
+    width: inherit;
+    height: inherit;
+    background-color: rgba(246, 3, 3, 0.5);
+    box-shadow: 0 0 10px rgba(5, 225, 56, 0.25);
+    backdrop-filter: blur(10px);
+    border-radius: 8px;
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+    background: radial-gradient(#afa2a4, #445568);
+    border-radius: 45%;
+    position: absolute;
+    animation: move-up 0.9s ease-in infinite alternate-reverse;
+}
+
+.circle:nth-child(1) {
+    top: -35px;
+    left: -25px;
+}
+
+.circle:nth-child(2) {
+    bottom: -25px;
+    right: -25px;
+    animation-name: move-down;
+}
+
+@keyframes move-up {
+    to {
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes move-down {
+    to {
+        transform: translateY(10px);
+    }
+}
