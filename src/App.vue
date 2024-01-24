@@ -1,6 +1,6 @@
 <template>
   
-  <headerVue />
+  <headerVue title="James Web Space Telescope" subtitle=""/>
 
   <router-view/>
 </template>
@@ -17,4 +17,11 @@ export default {
   }
 }
 </script>
+
+
+<style>
+
+
+</style>
+
 
