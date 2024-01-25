@@ -1,15 +1,13 @@
 import axios from 'axios'; 
 
-const url = 'http://www.omdbapi.com/?apikey=9bb58dbf&s=';
-const key = ;
+const url = 'https://api.jwstapi.com/';
+const key = '';
 
 export default({
     namespaced: true,
 
     state: {
-       movies: '',
-       loadingStatus: 'notloading',
-       error: [],
+     
 
     },
 
