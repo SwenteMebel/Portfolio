@@ -9,7 +9,7 @@
       </div>
       
       <div class="flex items-center justify-end md:p-5 p-4 font-mono">
-        <router-link to="/about"><button class="bg-red-500  p-3 md:p-5 rounded-2xl grid hover:shadow-md hover:shadow-white ease-linear duration-200">Read More</button></router-link>
+        <router-link to="/about"><button class="bg-red-500  p-3 md:p-5 rounded-2xl grid hover:font-bold hover:shadow-md hover:text-orange-400 hover:shadow-white ease-linear duration-200 ">Read More</button></router-link>
       </div>
       
     </div>

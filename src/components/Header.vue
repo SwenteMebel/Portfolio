@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-gray-900 text-gray-100 py-3.5 px-6 showd md:flex justify-between items-center sticky top-0 ">
+    <div class="bg-gray-900 text-gray-100 py-3.5 px-6 showd md:flex justify-between items-center sticky top-0 shadow-xl hover:shadow-gray-700 linear duration-200">
       <div class="flex items-center">
         <!--<img alt="Vue logo" src="../assets/logo.png" class="w-10">-->
         <h1 class="text-xl font-black self-center">{{ title }}</h1>
