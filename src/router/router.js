@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory} from 'vue-router'
 
 // De components importeren
+
 import HomePage from '@/components/HomePage.vue'; 
 import AboutVue from '@/components/About.vue';
 
