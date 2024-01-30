@@ -28,7 +28,7 @@
         <ul class="grid">
           <li class=" hover:text-orange-400 ease-linear duration-500"><a href="0624539865">Phone: 06-24539865</a> </li>
           <li class=" hover:text-orange-400 ease-linear duration-500"><a href="swentemebel@outlook.com">Mail: swentemebel@outlook.com </a></li>
-          <li class=" hover:text-orange-400 ease-linear duration-500"><a href="#">Made by: Swen te Mebel </a></li>
+          <li class=" hover:text-orange-400 ease-linear duration-500"><a href="#">Made by: Swen te Mebela </a></li>
         </ul>
       </div>
     </div>
