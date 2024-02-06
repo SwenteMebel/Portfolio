@@ -12,7 +12,7 @@
   
       <ul class="md:flex md:items-center md:static bg-gray-900 absolute md:w-auto text-semibold w-full top-14 duration-300 ease-in" :class="[open ? 'left-0' : 'left-[-100%]']">
         <li class="md:mx-4 md:my-0 p-1 mx-2 text-xl hover:text-green-500"><router-link to="/">Home</router-link></li>
-     
+     npm
       </ul>
   
     </div>

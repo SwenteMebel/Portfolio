@@ -1,5 +1,5 @@
 <template>
-  <div class="md:container md:grid md:justify-center">
+  <div class="md:grid md:justify-center">
     <img src="../assets/jwstachter.jpg" class="md:h-[30rem] w-screen">
   </div>
   <div class="">kljasdlfkjasdlkfjasldkj</div>
